@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "provider": "x",
+      "account_id": "<your-twitter-account-id>",
+      "text": "🎉 BIG NEWS: We're launching today!\n\nAfter months of hard work, our product is finally live. Check it out at example.com\n\n#launch #startup #product",
+      "scheduled_at": "2026-11-01T09:00:00Z"
+    },
+    {
+      "provider": "linkedin",
+      "account_id": "<your-linkedin-account-id>",
+      "text": "I'm thrilled to announce that we're officially launching today! 🚀\n\nThis has been an incredible journey, and I couldn't have done it without our amazing team and supportive community.\n\nCheck out what we've built at example.com\n\n#startup #launch #innovation",
+      "scheduled_at": "2026-11-01T09:15:00Z"
+    },
+    {
+      "provider": "facebook",
+      "account_id": "<your-facebook-page-id>",
+      "text": "🎉 We're live! After months of development, our product is finally ready for the world.\n\nVisit example.com to learn more and get started today.\n\n#LaunchDay #ProductLaunch #Startup",
+      "scheduled_at": "2026-11-01T09:30:00Z"
+    }
+  ]
+}

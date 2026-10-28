@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "provider": "x",
+      "account_id": "<your-twitter-account-id>",
+      "text": "📝 New blog post: \"How to Build Beautiful UI Components with 21st.dev\"\n\nLearn how to create stunning pricing tables, buttons, and more using natural language. Read it at example.com/blog\n\n#webdev #react #ui #design",
+      "scheduled_at": "2026-11-05T10:00:00Z"
+    },
+    {
+      "provider": "linkedin",
+      "account_id": "<your-linkedin-account-id>",
+      "text": "I just published a new blog post on building beautiful UI components.\n\nIn this article, I share my experience using 21st.dev to create modern, responsive components with natural language descriptions. It's been a game-changer for my development workflow.\n\nRead the full post at example.com/blog\n\n#webdevelopment #react #ui #ux #productivity",
+      "scheduled_at": "2026-11-05T10:30:00Z"
+    },
+    {
+      "provider": "reddit",
+      "account_id": "<your-reddit-account-id>",
+      "text": "Hey r/webdev! I just wrote a guide on using 21st.dev to build UI components with natural language. It's been incredibly helpful for rapid prototyping. Check it out and let me know what you think!\n\nFull article: example.com/blog",
+      "scheduled_at": "2026-11-05T11:00:00Z"
+    }
+  ]
+}

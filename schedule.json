@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "provider": "x",
+      "account_id": "<your-twitter-account-id>",
+      "text": "🚀 Just launched our new pricing page! Check it out at pricingwith21st.dev\n\nBuilt with 21st.dev components #NextJS #React",
+      "scheduled_at": "2026-10-29T10:00:00Z"
+    },
+    {
+      "provider": "linkedin",
+      "account_id": "<your-linkedin-account-id>",
+      "text": "Excited to announce our new pricing page! 🎉\n\nWe've just launched a beautiful pricing table built with 21st.dev components and Next.js. The responsive design includes animated prices, billing toggles, and a modern UI.\n\nCheck it out at pricingwith21st.dev\n\n#webdev #react #nextjs #pricing",
+      "scheduled_at": "2026-10-29T10:05:00Z"
+    }
+  ]
+}
